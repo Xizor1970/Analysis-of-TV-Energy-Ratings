@@ -1,3 +1,5 @@
+#Author: Hendrik A. Dreyer
+
 library(tidyverse) #which includes dplyr
 library(cluster)
 
